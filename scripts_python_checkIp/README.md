@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Automation - IP link check
-parent: Pilot
+parent: PiloT
 
 nav_order: 10
 has_children: false
@@ -10,7 +10,7 @@ has_children: false
 
 ## Purpose
 Automates IP link availablity - reboots the PiloT if the IP link fails.
-By testing wwan0 network connection provided by the Pilot board using ICMP ping  
+By testing wwan0 network connection provided by the PiloT board using ICMP ping  
 Restarts the wwan0 network connection on ping failure   
 The current version is experimental - seems to work but is very basic - maybe view this  
 as a starting point to develop a better solution  
