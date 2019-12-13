@@ -20,7 +20,7 @@ as a starting point to develop a better solution
 pip install python-crontab
 ```
 
-This assumes the Pilot project was installed in the pi@raspberrypi: home folder - the code 
+This assumes the PiloT project was installed in the pi@raspberrypi: home folder - the code 
 currently has hardcoded paths  
 
 Add the cron custom job  
