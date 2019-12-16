@@ -26,7 +26,7 @@ The PiloT power state is controlled via the Rpi GPIO and the PiloT is powered
 Control and data communications between the PiloT with the RPi is via USB or
  the RPi physical serial port. Note that some RPi variants use the physical serial port to communicate with the RPi on board WiFi / Bluetooth systems 
 
-Click for [documentation](https://johnofleek.github.io/Pilot/)
+Click for [documentation](https://linkwavetech.github.io/pilot/)
 
 This repo contains the documentation source and also Raspberry Pi related source code for various PiloT related functionality 
 
